@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Карты охотника</string>
+    <string name="my_cards">Мои карты</string>
+    <string name="all_cards">Все карты</string>
+    <string name="empty">Нет данных</string>
+    <string name="card_name">Название карты</string>
+    <string name="end_date">Дата окончания</string>
+    <string name="renewal">Продлить</string>
+    <string name="buy_for">Купить за %s рублей</string>
+    <string name="card_bought_n_rubles">Куплена карта за %s рублей</string>
+    <string name="layout_for_price">%s руб.</string>
+    <string name="bought">Куплено</string>
+    <string name="unsuccessful_download">Не удалось загрузить данные. Проверьте подключение к Интернету.</string>
+    <string name="name">Имя</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="add_avatar">Добавить фото</string>
+    <string name="registration_form">Регистрация</string>
+    <string name="finish">Готово</string>
+    <string name="photo_not_selected">Вы не выбрали фотографию</string>
+    <string name="login_email">Логин</string>
+    <string name="authorization_form">Авторизация</string>
+    <string name="confirmation_registration">Вы успешно зарегестрированы</string>
+    <string name="weak_password_level">Простой пароль</string>
+    <string name="intermediate_password_level">Средний пароль</string>
+    <string name="good_password_level">Хороший пароль</string>
+    <string name="login">Логин</string>
+    <string name="fields_not_filled">Не все поля заполнены</string>
+    <string name="wrong_login_password">Неверный логин/пароль</string>
+    <string name="add_photo">Добавьте фотографию</string>
+    <string name="wrong_email">Некорректный адрес</string>
+    <string name="wrong_name">Длина имени должна быть от 2 до 30 символов</string>
+    <string name="wrong_data">Неверно введенные данные</string>
+</resources>
